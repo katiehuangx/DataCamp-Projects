@@ -23,3 +23,18 @@ View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Inv
 - Subquery in `WHERE` clause
 
 View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Analyze%20International%20Debt%20Statistics/Solution.ipynb) here!
+
+### 2. What and Where Are the World's Oldest Businesses?
+
+**🔑 Key Learnings**
+- Using aggregate functions such as `MAX()`, `MIN()`, `COUNT()`
+- Filter techniques such as `WHERE`, `GROUP BY` and `HAVING`
+- Sorting using `ORDER BY`
+- Inner `JOIN` and `LEFT JOIN` 
+
+View my project [here](https://github.com/katiehuangx/DataCamp-Projects/blob/main/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses%3F/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses.ipynb)!
+
+
+
+
+
