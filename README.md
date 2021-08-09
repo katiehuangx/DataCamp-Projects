@@ -18,7 +18,8 @@ View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Inv
 
 **🔑 Key Learnings**
 - Using aggregate functions such as `SUM()`, `MAX()`
-- Filter techniques such as `WHERE`, `GROUP BY` and `ORDER BY`
+- Filter techniques such as `WHERE`, `GROUP BY`
+- Sorting using `ORDER BY`
 - Limit results using `LIMIT` clause
 - Subquery in `WHERE` clause
 
