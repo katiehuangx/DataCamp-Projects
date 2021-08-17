@@ -10,6 +10,13 @@
 
 View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb) here!
 
+### 2. Generating Keywords for Google Ads
+
+**🔑 Key Learnings**
+- Created prototype set of keywords for search campaign for an online furniture retailer.
+- Created dataframes.
+
+View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Generating%20Keywords%20for%20Google%20Ads/Generating%20Keywords%20for%20Google%20Ads.ipynb) here!
 ***
 
 ## 📊 Guided Projects using SQL
