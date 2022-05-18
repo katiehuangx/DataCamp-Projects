@@ -17,6 +17,15 @@ View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Inv
 - Created dataframes.
 
 View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Generating%20Keywords%20for%20Google%20Ads/Generating%20Keywords%20for%20Google%20Ads.ipynb) here!
+
+### 3. Exploring the NYC Airbnb Market
+
+View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/Exploring%20the%20NYC%20Airbnb%20Market.ipynb) here!
+
+### 4. Streamlining Employee Data
+
+View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Streamlining%20Employee%20Data/Streamlining%20Employee%20Data.ipynb) here!
+
 ***
 
 ## 📊 Guided Projects using SQL
